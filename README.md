@@ -1,1 +1,1 @@
-Set of common docker compose files for personal use
+Set of common docker-compose/Dockerfile for personal use
